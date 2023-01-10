@@ -1,5 +1,5 @@
 # Arduino_multimeter
-Portable multimeter on Arduino controller/
+Portable multimeter on LGT8F328P controller/
 Портативный мультиметр на контроллере LGT8F328P
 ----------
 
